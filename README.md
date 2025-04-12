@@ -17,8 +17,8 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - JavaScript (Vanilla)
 
 
-
 🧑‍💻 How to Set Up and Run the Project
+
 You can run this project in two simple ways:
 
 ✅ Option 1: Open Directly in Browser
