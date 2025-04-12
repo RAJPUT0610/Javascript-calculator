@@ -18,3 +18,30 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 
 
+🧑‍💻 How to Set Up and Run the Project
+You can run this project in two simple ways:
+
+✅ Option 1: Open Directly in Browser
+Clone or Download the Repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/RAJPUT0610/Javascript-calculator.git
+cd Javascript-calculator
+Open index.html in Your Browser:
+
+Simply double-click the index.html file, or
+
+Right-click and choose "Open with" → your browser.
+
+⚡ Option 2: Use Live Server in VS Code (Recommended)
+Open the folder in VS Code
+
+Install the "Live Server" extension (if not already installed)
+
+Right-click on index.html → Click "Open with Live Server"
+
+This will automatically launch the project in your default browser with live reload functionality.
+
+
